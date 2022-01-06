@@ -17,19 +17,24 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 - Maintain Continous Streak (As at 5/1/22 Streak is 26 Days)
 #### HackTheBox
 - Complete Starting Point
-- ???
+- Reach "Hacker" Rank
 #### HackerOne/ Bug Boutny
 - Submit a Valid Bug
 #### Other
 - Setup Home Lab on Proxmox <div align="Setup Repo for this">
 
+#### Certifications
+1. Comptia Security+
+2. eJPT
+3. OSCP
+
 ## Top Repositories
-- [PenTesting Write-ups]()
+- [PenTesting Write-ups](https://github.com/TwitchingAstronaut/Pentesting_Writeups)
     <p>
     Currently only has a list of free Rooms on Tryhackme, separated by level.
     Eventually will have Writeups for HTB & THM
     </p>
-- [Public Projects]()
+- <img scr="\icons\lock-black.png"> [Public Projects]()
     <p>
     (Currently Private Repo)
     </p>
