@@ -12,7 +12,7 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 ---
 
 ## 2022 Goals
-### Quarter 1 
+~~### Quarter 1 ~~
 <table>
    <tr><td>
 
