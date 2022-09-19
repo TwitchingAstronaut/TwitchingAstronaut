@@ -7,19 +7,18 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/tabris.png)](https://tryhackme.com/p/tabris)
 [![](https://www.hackthebox.eu/badge/image/665072)](https://app.hackthebox.eu/profile/665072)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Twitching-blue?style=for-the-badge&logo=hackerone)](https://hackerone.com/twitching?type=user)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Twitching-blue?style=for-the-badge&logo=hackerone)](https://hackerone.com/twitching?type=user)![Twitch Status](https://img.shields.io/twitch/status/twitching_astronaut?logo=twitch&style=for-the-badge)
 
 ---
 
-## 2022 Goals
-~~### Quarter 1~~
+## Current Goals
 <table>
    <tr><td>
 
 #### TryHackME
 - [ ] Reach Top 1000 on TryHackMe
 - [ ] Reach Top 10 (Australia) on TryHackMe
-- [ ] Maintain Continous Streak <br>(As at 28/05/22 Streak is 169 Days)
+- [ ] Maintain Continous Streak <br>(As at 20/09/2022 Streak is 283 Days)
 </td>
 <td>
 
