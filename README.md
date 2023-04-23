@@ -18,7 +18,7 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 #### TryHackME
 - [ ] Reach Top 1000 on TryHackMe
 - [ ] Reach Top 10 (Australia) on TryHackMe
-- [ ] Maintain Continous Streak <br>(As at 8/4/23 Streak is 484 Days)
+- [ ] Maintain Continous Streak <br>(As at 24/4/23 Streak is 500 Days)
 </td>
 <td>
 
@@ -41,17 +41,18 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 #### Other
 
 - [ ] Setup Home Lab on Proxmox <div align="Setup Repo for this">
-    - [ ] Document this
+    - [ ] Document this (in-progress, Just Not Public :) )
 
 </td>
 <td>
 
 #### Certifications
-CompTIA Certificates
+**CompTIA Certificates**
 - [x] Comptia A+ (20/1/23)
 - [ ] Comptia Network+
-- [x] Comptia Security+ (5/4/23)
-Other Certificates
+- [x] Comptia Security+ (5/4/23)<br>
+   
+**Other Certificates**
 - [ ] eJPT
 - [ ] OSCP
 
