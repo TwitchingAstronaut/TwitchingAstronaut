@@ -49,7 +49,7 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 #### Certifications
 **CompTIA Certificates**
 - [x] Comptia A+ (20/1/23)
-- [ ] Comptia Network+
+- [x] Comptia Network+ (3/5/2023)
 - [x] Comptia Security+ (5/4/23)<br>
    
 **Other Certificates**
