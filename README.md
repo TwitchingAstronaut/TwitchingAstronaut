@@ -19,6 +19,7 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 - [ ] Reach Top 1000 on TryHackMe
 - [ ] Reach Top 10 (Australia) on TryHackMe
 - [ ] Maintain Continous Streak <br>(As at 24/4/23 Streak is 500 Days)
+- [ ] Reach 2 year Streak
 </td>
 <td>
 
@@ -41,8 +42,9 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 #### Other
 
 - [ ] Setup Home Lab on Proxmox <div align="Setup Repo for this">
-    - [ ] Document this (in-progress, Just Not Public :) )
-
+    - [x] Document this (in-progress, Just Not Public :) )
+- [ ] Learn Python
+    - [ ] Port current Bash Scripts to Python
 </td>
 <td>
 
@@ -53,6 +55,7 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 - [x] Comptia Security+ (5/4/23)<br>
    
 **Other Certificates**
+- [ ] Certificate IV in Cybersecurity at TAFE 22603VIC
 - [ ] eJPT
 - [ ] OSCP
 
