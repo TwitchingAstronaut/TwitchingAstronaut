@@ -18,7 +18,7 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 #### TryHackME
 - [ ] Reach Top 1000 on TryHackMe
 - [ ] Reach Top 10 (Australia) on TryHackMe
-- [ ] Maintain Continous Streak <br>(As at 24/4/23 Streak is 500 Days)
+- [ ] Maintain Continous Streak <br>(As at 02/08/23 Streak is 600 Days)
 - [ ] Reach 2 year Streak
 </td>
 <td>
@@ -43,7 +43,7 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 
 - [ ] Setup Home Lab on Proxmox <div align="Setup Repo for this">
     - [x] Document this (in-progress, Just Not Public :) )
-- [ ] Learn Python
+- [ ] Learn Python - in progress
     - [ ] Port current Bash Scripts to Python
 </td>
 <td>
