@@ -18,8 +18,9 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 #### TryHackME
 - [ ] Reach Top 1000 on TryHackMe
 - [ ] Reach Top 10 (Australia) on TryHackMe
-- [ ] Maintain Continous Streak <br>(As at 23/01/2024 Streak is 767 Days)
+- [X] Maintain Continous Streak <br>(As at 04/08/2025 Streak is 767 Days)
 - [x] Reach 2 year Streak (18/12/2023)
+- [X] 1250 Streak (22/05/2025)
 </td>
 <td>
 
@@ -55,7 +56,7 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 - [x] Comptia Security+ (5/4/23)<br>
    
 **Other Certificates**
-- [ ] Certificate IV in Cybersecurity at TAFE 22603VIC
+- [X] Certificate IV in Cybersecurity at TAFE 22603VIC (06/2024)
 - [ ] eJPT
 - [ ] OSCP
 
